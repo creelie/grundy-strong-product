@@ -1,0 +1,192 @@
+K_{2,2,2}: layer sizes 1, 6, 1
+K_{2,2,2}: 8 dominated sets in all; Grundy domination number 2
+# oct: 0 s
+1: layer sizes 1, 1
+1: 2 dominated sets in all; Grundy domination number 1
+# 1: 0 s
+2: layer sizes 1, 2, 1
+2: 4 dominated sets in all; Grundy domination number 2
+# 2: 0 s
+3: layer sizes 1, 2, 1
+3: 4 dominated sets in all; Grundy domination number 2
+# 3: 0 s
+4: layer sizes 1, 2, 1
+4: 4 dominated sets in all; Grundy domination number 2
+# 4: 0 s
+5: layer sizes 1, 4, 4, 1
+5: 10 dominated sets in all; Grundy domination number 3
+# 5: 1 s
+6: layer sizes 1, 6, 11, 7, 3, 1
+6: 29 dominated sets in all; Grundy domination number 5
+# 6: 0 s
+7: layer sizes 1, 7, 21, 15, 8, 1
+7: 53 dominated sets in all; Grundy domination number 5
+# 7: 0 s
+8: layer sizes 1, 8, 26, 23, 13, 7, 1
+8: 79 dominated sets in all; Grundy domination number 6
+# 8: 0 s
+9: layer sizes 1, 9, 36, 37, 20, 10, 1
+9: 114 dominated sets in all; Grundy domination number 6
+# 9: 1 s
+10: layer sizes 1, 10, 45, 61, 36, 11, 1
+10: 165 dominated sets in all; Grundy domination number 6
+# 10: 0 s
+11: layer sizes 1, 11, 52, 89, 55, 27, 9, 1
+11: 245 dominated sets in all; Grundy domination number 7
+# 11: 0 s
+12: layer sizes 1, 12, 66, 131, 82, 42, 13, 1
+12: 348 dominated sets in all; Grundy domination number 7
+# 12: 1 s
+13: layer sizes 1, 13, 78, 196, 131, 66, 14, 1
+13: 500 dominated sets in all; Grundy domination number 7
+# 13: 0 s
+14: layer sizes 1, 14, 87, 240, 193, 106, 45, 11, 1
+14: 698 dominated sets in all; Grundy domination number 8
+# 14: 0 s
+15: layer sizes 1, 15, 105, 312, 277, 155, 71, 16, 1
+15: 953 dominated sets in all; Grundy domination number 8
+# 15: 1 s
+16: layer sizes 1, 16, 120, 417, 417, 233, 105, 17, 1
+16: 1327 dominated sets in all; Grundy domination number 8
+# 16: 0 s
+17: layer sizes 1, 17, 131, 484, 536, 352, 182, 67, 13, 1
+17: 1784 dominated sets in all; Grundy domination number 9
+# 17: 1 s
+18: layer sizes 1, 18, 153, 599, 703, 500, 265, 107, 19, 1
+18: 2366 dominated sets in all; Grundy domination number 9
+# 18: 0 s
+19: layer sizes 1, 19, 171, 761, 970, 723, 381, 153, 20, 1
+19: 3200 dominated sets in all; Grundy domination number 9
+# 19: 0 s
+20: layer sizes 1, 20, 184, 855, 1181, 981, 599, 287, 93, 15, 1
+20: 4217 dominated sets in all; Grundy domination number 10
+# 20: 1 s
+21: layer sizes 1, 21, 210, 1023, 1482, 1302, 848, 419, 150, 22, 1
+21: 5479 dominated sets in all; Grundy domination number 10
+# 21: 0 s
+22: layer sizes 1, 22, 231, 1255, 1948, 1761, 1189, 584, 210, 23, 1
+22: 7225 dominated sets in all; Grundy domination number 10
+# 22: 1 s
+23: layer sizes 1, 23, 246, 1380, 2288, 2277, 1700, 965, 425, 123, 17, 1
+23: 9446 dominated sets in all; Grundy domination number 11
+# 23: 0 s
+24: layer sizes 1, 24, 276, 1611, 2780, 2910, 2285, 1369, 624, 200, 25, 1
+24: 12106 dominated sets in all; Grundy domination number 11
+# 24: 1 s
+25: layer sizes 1, 25, 300, 1926, 3526, 3776, 3051, 1876, 851, 276, 26, 1
+25: 15635 dominated sets in all; Grundy domination number 11
+# 25: 0 s
+26: layer sizes 1, 26, 317, 2086, 4038, 4712, 4169, 2828, 1486, 600, 157, 19, 1
+26: 20440 dominated sets in all; Grundy domination number 12
+# 26: 1 s
+27: layer sizes 1, 27, 351, 2390, 4788, 5847, 5430, 3851, 2120, 887, 257, 28, 1
+27: 25978 dominated sets in all; Grundy domination number 12
+# 27: 0 s
+28: layer sizes 1, 28, 378, 2801, 5909, 7351, 7015, 5097, 2857, 1191, 351, 29, 1
+28: 33009 dominated sets in all; Grundy domination number 12
+# 28: 1 s
+29: layer sizes 1, 29, 397, 3000, 6642, 8925, 9246, 7335, 4544, 2203, 816, 195, 21, 1
+29: 43355 dominated sets in all; Grundy domination number 13
+# 29: 0 s
+30: layer sizes 1, 30, 435, 3387, 7727, 10818, 11729, 9727, 6269, 3167, 1215, 321, 31, 1
+30: 54858 dominated sets in all; Grundy domination number 13
+# 30: 1 s
+31: layer sizes 1, 31, 465, 3907, 9332, 13269, 14757, 12556, 8247, 4217, 1613, 435, 32, 1
+31: 68863 dominated sets in all; Grundy domination number 13
+# 31: 0 s
+32: layer sizes 1, 32, 486, 4149, 10341, 15763, 18874, 17386, 12468, 7077, 3162, 1077, 237, 23, 1
+32: 91077 dominated sets in all; Grundy domination number 14
+# 32: 1 s
+33: layer sizes 1, 33, 528, 4629, 11848, 18746, 23414, 22512, 16809, 9889, 4585, 1615, 392, 34, 1
+33: 115036 dominated sets in all; Grundy domination number 14
+# 33: 1 s
+34: layer sizes 1, 34, 561, 5271, 14060, 22543, 28833, 28442, 21710, 12955, 6053, 2126, 528, 35, 1
+34: 143153 dominated sets in all; Grundy domination number 14
+# 34: 0 s
+35: layer sizes 1, 35, 584, 5560, 15406, 26311, 35955, 38084, 31448, 20535, 10712, 4414, 1387, 283, 25, 1
+35: 190741 dominated sets in all; Grundy domination number 15
+# 35: 1 s
+36: layer sizes 1, 36, 630, 6143, 17432, 30802, 43765, 48267, 41472, 28103, 15153, 6458, 2094, 470, 37, 1
+36: 240864 dominated sets in all; Grundy domination number 15
+# 36: 0 s
+37: layer sizes 1, 37, 666, 6920, 20388, 36446, 52948, 59867, 52652, 36335, 19796, 8474, 2739, 630, 38, 1
+37: 297938 dominated sets in all; Grundy domination number 15
+# 37: 1 s
+38: layer sizes 1, 38, 691, 7260, 22138, 41922, 64629, 77865, 73454, 54887, 32843, 15796, 6015, 1750, 333, 27, 1
+38: 399650 dominated sets in all; Grundy domination number 16
+# 38: 1 s
+39: layer sizes 1, 39, 741, 7956, 24790, 48435, 77401, 96826, 94875, 73563, 45564, 22606, 8879, 2659, 555, 40, 1
+39: 504931 dominated sets in all; Grundy domination number 16
+# 39: 1 s
+40: layer sizes 1, 40, 780, 8881, 28641, 56541, 92261, 118201, 118561, 93821, 58981, 29481, 11601, 3461, 741, 41, 1
+40: 622035 dominated sets in all; Grundy domination number 16
+# 40: 0 s
+41: layer sizes 1, 41, 807, 9276, 30868, 64247, 110589, 149939, 160067, 135894, 92692, 51112, 22744, 8026, 2170, 387, 29, 1
+41: 838890 dominated sets in all; Grundy domination number 17
+# 41: 1 s
+42: layer sizes 1, 42, 861, 10095, 34263, 73402, 130607, 183355, 202847, 178472, 126031, 71797, 32907, 11950, 3317, 647, 43, 1
+42: 1060638 dominated sets in all; Grundy domination number 17
+# 42: 1 s
+43: layer sizes 1, 43, 903, 11181, 39174, 84711, 153726, 220763, 249874, 224547, 161380, 93053, 42872, 15567, 4301, 861, 44, 1
+43: 1303002 dominated sets in all; Grundy domination number 17
+# 43: 2 s
+44: layer sizes 1, 44, 932, 11635, 41957, 95265, 181432, 274099, 327943, 313629, 242086, 151865, 77555, 32045, 10513, 2651, 445, 31, 1
+44: 1764129 dominated sets in all; Grundy domination number 18
+# 44: 1 s
+45: layer sizes 1, 45, 990, 12587, 46222, 107798, 211697, 330293, 408532, 404140, 322657, 209169, 110192, 46840, 15782, 4075, 746, 46, 1
+45: 2231813 dominated sets in all; Grundy domination number 18
+# 45: 2 s
+46: layer sizes 1, 46, 1035, 13847, 52372, 123189, 246469, 392910, 496778, 501907, 408343, 268756, 142992, 60997, 20517, 5268, 990, 47, 1
+46: 2736465 dominated sets in all; Grundy domination number 18
+# 46: 4 s
+47: layer sizes 1, 47, 1066, 14364, 55796, 137313, 287046, 478940, 636348, 679479, 588668, 416790, 241992, 114965, 44268, 13547, 3197, 507, 33, 1
+47: 3714368 dominated sets in all; Grundy domination number 19
+# 47: 5 s
+48: layer sizes 1, 48, 1128, 15459, 61068, 154086, 331413, 569717, 780714, 860512, 769895, 562883, 337228, 165072, 65325, 20495, 4940, 852, 49, 1
+48: 4700886 dominated sets in all; Grundy domination number 19
+# 48: 6 s
+49: layer sizes 1, 49, 1176, 16906, 68650, 174588, 382201, 670566, 938400, 1055804, 962949, 715940, 434582, 214474, 85065, 26608, 6371, 1128, 50, 1
+49: 5755509 dominated sets in all; Grundy domination number 19
+# 49: 6 s
+50: layer sizes 1, 50, 1209, 17490, 72806, 193116, 440033, 804530, 1177233, 1391640, 1341937, 1063504, 695799, 375914, 166809, 60068, 17204, 3812, 573, 35, 1
+50: 7823764 dominated sets in all; Grundy domination number 20
+# 50: 8 s
+51: layer sizes 1, 51, 1275, 18738, 79232, 215127, 503360, 946173, 1424849, 1735079, 1724744, 1409595, 950983, 529499, 241854, 89429, 26218, 5919, 965, 52, 1
+51: 9903144 dominated sets in all; Grundy domination number 20
+# 51: 10 s
+52: layer sizes 1, 52, 1326, 20385, 88453, 241931, 575667, 1103233, 1694889, 2105247, 2132911, 1773877, 1214773, 684139, 314627, 116481, 34009, 7619, 1275, 53, 1
+52: 12110949 dominated sets in all; Grundy domination number 20
+# 52: 12 s
+53: layer sizes 1, 53, 1361, 21040, 93438, 265817, 656168, 1305575, 2088366, 2711966, 2887674, 2540905, 1857140, 1129656, 570506, 237329, 80192, 21565, 4500, 643, 37, 1
+53: 16473933 dominated sets in all; Grundy domination number 21
+# 53: 16 s
+54: layer sizes 1, 54, 1431, 22451, 101175, 294210, 744477, 1520015, 2497337, 3334221, 3653133, 3309679, 2491525, 1560927, 811581, 347223, 120377, 33089, 7019, 1085, 55, 1
+54: 20851066 dominated sets in all; Grundy domination number 21
+# 54: 22 s
+55: layer sizes 1, 55, 1485, 24311, 112256, 328681, 845131, 1757526, 2942941, 4004551, 4469741, 4121206, 3152051, 2001341, 1051051, 452266, 156861, 42901, 9021, 1431, 56, 1
+55: 25474865 dominated sets in all; Grundy domination number 21
+# 55: 25 s
+56: layer sizes 1, 56, 1522, 25041, 118173, 359007, 954894, 2055120, 3570086, 5057615, 5903387, 5723620, 4635742, 3145921, 1788255, 847572, 331650, 105485, 26716, 5265, 717, 39, 1
+56: 34655885 dominated sets in all; Grundy domination number 22
+# 56: 55 s
+57: layer sizes 1, 57, 1596, 26625, 127388, 395082, 1075544, 2371294, 4223615, 6140631, 7362325, 7337678, 6112541, 4267755, 2496021, 1216850, 489319, 159563, 41255, 8247, 1212, 58, 1
+57: 43854658 dominated sets in all; Grundy domination number 22
+# 57: 54 s
+58: layer sizes 1, 58, 1653, 28711, 140564, 438771, 1212897, 2721274, 4935366, 7307015, 8919299, 9044608, 7657364, 5424161, 3210765, 1579254, 638146, 208047, 53477, 10586, 1596, 59, 1
+58: 53533673 dominated sets in all; Grundy domination number 22
+# 58: 67 s
+59: layer sizes 1, 59, 1692, 29520, 147522, 476755, 1359853, 3148828, 5906292, 9071571, 11531237, 12233691, 10898658, 8183719, 5185361, 2766457, 1234864, 455895, 136896, 32748, 6111, 795, 41, 1
+59: 72808567 dominated sets in all; Grundy domination number 23
+# 59: 85 s
+60: layer sizes 1, 60, 1770, 31287, 158392, 521978, 1521725, 3604239, 6920700, 10891123, 14197231, 15458680, 14143834, 10912927, 7107213, 3897776, 1788144, 677937, 208561, 50872, 9610, 1346, 61, 1
+60: 92105468 dominated sets in all; Grundy domination number 23
+# 60: 108 s
+61: layer sizes 1, 61, 1830, 33612, 173912, 576634, 1705866, 4108229, 8025344, 12850627, 17043157, 18873279, 17548786, 13743789, 9069847, 5028597, 2325260, 885233, 272122, 65942, 12323, 1770, 62, 1
+61: 112346284 dominated sets in all; Grundy domination number 23
+# 61: 141 s
+62: layer sizes 1, 62, 1871, 34504, 182026, 623638, 1899453, 4709879, 9490328, 15716811, 21629443, 24952815, 24287681, 20031457, 14028463, 8338273, 4190861, 1767233, 617307, 175484, 39757, 7042, 877, 43, 1
+62: 152725310 dominated sets in all; Grundy domination number 24
+# 62: 207 s
+63: layer sizes 1, 63, 1953, 36464, 194738, 679651, 2113147, 5352372, 11024859, 18679835, 26323309, 31121015, 31065244, 26291715, 18903217, 11538719, 5956692, 2579679, 924740, 269136, 62105, 11115, 1487, 64, 1
+63: 193131321 dominated sets in all; Grundy domination number 24
+# 63: 288 s

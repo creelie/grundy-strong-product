@@ -1,0 +1,25 @@
+'GrundyStrong.oct_simple' does not depend on any axioms
+'GrundyStrong.H_simple' does not depend on any axioms
+'GrundyStrong.octMask_spec' depends on axioms: [propext]
+'GrundyStrong.hMask_spec' depends on axioms: [propext]
+'GrundyStrong.oct_certified' depends on axioms: [propext]
+'GrundyStrong.H_certified' depends on axioms: [propext]
+'GrundyStrong.oct_legal_le' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.H_legal_le' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.oct_grundy' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.H_grundy' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.prodSeq_legal' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.prodSeq_dominating' does not depend on any axioms
+'GrundyStrong.prodSeq_nodup' does not depend on any axioms
+'GrundyStrong.prodSeq_length' does not depend on any axioms
+'GrundyStrong.strong_product_counterexample' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.Tree.occ_of_mem' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.Tree.all_spec' depends on axioms: [propext]
+'GrundyStrong.dom_append_single' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.testBit_foldl_or' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.testBit_dom' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.new_bit' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.layer_lt_length' depends on axioms: [propext]
+'GrundyStrong.occ_succ' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.occ_layers' depends on axioms: [propext, Quot.sound]
+'GrundyStrong.legal_length_le' depends on axioms: [propext, Quot.sound]
