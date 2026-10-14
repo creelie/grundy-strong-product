@@ -76,6 +76,12 @@ To reproduce: `scripts/run_all.sh`, `cd lean && lake build && lake env lean Chec
 `scripts/build_paper.sh` (TeX Live). The workflow `.github/workflows/verify.yml` runs all three on
 every pull request.
 
+## Citation
+
+Release v1.0.0: [doi:10.5281/zenodo.23378021](https://doi.org/10.5281/zenodo.23378021); all
+versions: [doi:10.5281/zenodo.23378020](https://doi.org/10.5281/zenodo.23378020). `CITATION.cff` has
+the metadata.
+
 ## Author
 
 Deep Bhattacharjee, formerly Electro-Gravitational Space Propulsion Laboratory (EGSPL),
