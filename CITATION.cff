@@ -1,0 +1,86 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Grundy domination number is not multiplicative on strong products"
+type: software
+authors:
+  - family-names: Bhattacharjee
+    given-names: Deep
+    orcid: "https://orcid.org/0000-0003-0466-750X"
+    affiliation: "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India"
+    email: d.bhattacharjee@erl-forschung.de
+version: 1.0.0
+date-released: 2026-10-14
+license: MIT
+repository-code: "https://github.com/creelie/grundy-strong-product"
+keywords:
+  - Grundy domination number
+  - dominating sequence
+  - strong product
+  - counterexample
+  - circular clique
+  - Lean 4
+abstract: >-
+  The strong product of the octahedron with a graph H on 21 vertices of Grundy domination number 10
+  has Grundy domination number at least 21. This disproves the conjecture of Brešar, Bujtás,
+  Gologranc, Klavžar, Košmrlj, Patkós, Tuza and Vizer that the Grundy domination number is
+  multiplicative on strong products. The upper bound for H is certified in Lean 4.
+references:
+  - type: article
+    title: "Dominating sequences in grid-like and toroidal graphs"
+    authors:
+      - family-names: Brešar
+        given-names: Boštjan
+      - family-names: Bujtás
+        given-names: Csilla
+      - family-names: Gologranc
+        given-names: Tanja
+      - family-names: Klavžar
+        given-names: Sandi
+      - family-names: Košmrlj
+        given-names: Gašper
+      - family-names: Patkós
+        given-names: Balázs
+      - family-names: Tuza
+        given-names: Zsolt
+      - family-names: Vizer
+        given-names: Máté
+    year: 2016
+    journal: "The Electronic Journal of Combinatorics"
+    volume: 23
+    issue: 4
+    doi: "10.37236/6269"
+  - type: article
+    title: "Grundy domination of forests and the strong product conjecture"
+    authors:
+      - family-names: Bell
+        given-names: Kayla
+      - family-names: Driscoll
+        given-names: Keith
+      - family-names: Krop
+        given-names: Elliot
+      - family-names: Wolff
+        given-names: Kimber
+    year: 2021
+    journal: "The Electronic Journal of Combinatorics"
+    volume: 28
+    issue: 2
+    doi: "10.37236/9507"
+  - type: article
+    title: "Dominating sequences in graphs"
+    authors:
+      - family-names: Brešar
+        given-names: Boštjan
+      - family-names: Gologranc
+        given-names: Tanja
+      - family-names: Milanič
+        given-names: Martin
+      - family-names: Rall
+        given-names: Douglas F.
+      - family-names: Rizzi
+        given-names: Romeo
+    year: 2014
+    journal: "Discrete Mathematics"
+    volume: 336
+    start: 22
+    end: 36
+    doi: "10.1016/j.disc.2014.07.016"
