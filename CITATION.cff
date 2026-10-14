@@ -10,6 +10,14 @@ authors:
     email: d.bhattacharjee@erl-forschung.de
 version: 1.0.0
 date-released: 2026-10-14
+doi: "10.5281/zenodo.23378021"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23378020"
+    description: "All versions"
+  - type: doi
+    value: "10.5281/zenodo.23378021"
+    description: "Version 1.0.0"
 license: MIT
 repository-code: "https://github.com/creelie/grundy-strong-product"
 keywords:
