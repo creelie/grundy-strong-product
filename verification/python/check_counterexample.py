@@ -14,7 +14,7 @@ Checked here:
      dominated sets (a different algorithm from the breadth-first layers used in Lean and in C);
   4. for 21 <= N <= 36 the sequence (j mod 3, j), j = 0, ..., N - 1, is a legal dominating sequence of
      K_{2,2,2} x H_N (strong product), of length N;
-  5. the description of H_{3n} in Proposition 2.1: in the cyclic order a_0, ..., a_{n-1}, c_0, ...,
+  5. the description of H_{3n} in Proposition 2.2: in the cyclic order a_0, ..., a_{n-1}, c_0, ...,
      c_{n-1}, b_0, ..., b_{n-1} (a_i = 3i, b_i = 3i + 1, c_i = 3i + 2), two vertices are adjacent
      exactly when their cyclic distance lies between n + 1 and 2n - 1, or they are a_i and c_i;
      checked for 2 <= n <= 30;
@@ -142,7 +142,7 @@ for n in range(2, 31):
             d = min(d, N - d)
             matched = {u % 3, v % 3} == {0, 2} and u // 3 == v // 3
             ok &= (frozenset((u, v)) in E) == (n + 1 <= d <= 2 * n - 1 or matched)
-report(ok, "Proposition 2.1: H_{3n} is the circular graph (distance n+1..2n-1) plus the matching a_i c_i, 2 <= n <= 30")
+report(ok, "Proposition 2.2: H_{3n} is the circular graph (distance n+1..2n-1) plus the matching a_i c_i, 2 <= n <= 30")
 
 # 6. the circular cliques K_{3n/(n+1)}
 for n in range(3, 12):
